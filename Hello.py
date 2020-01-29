@@ -1,1 +1,1 @@
-echo "Hello python ran from git"
+echo "Hello python ran from git";
